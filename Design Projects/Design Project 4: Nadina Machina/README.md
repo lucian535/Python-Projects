@@ -4,3 +4,5 @@ This is a prototype which integrates both software and hardware together to assi
 
 Here is a Quick demonstration of the funciton:
 
+
+https://user-images.githubusercontent.com/121974540/210873899-ca55aee2-0f54-4b1f-9789-c13b1c2b91c1.mp4
