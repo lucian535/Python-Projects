@@ -1,5 +1,5 @@
 '''
-
+Hangman game with GUI
 '''
 import pygame # Imports modules
 import math
